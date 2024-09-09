@@ -8,3 +8,4 @@ This project is part of The Odin Project curriculum. The goal is to create a bas
 ![Egusi Soup](Images/Egusi%20soup.jpeg)
 ![Nigerian Jollof Rice](Images/NIGERIAN%20JOLLOF%20RICE.jpeg)
 
+
